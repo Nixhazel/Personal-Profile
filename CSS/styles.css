@@ -85,8 +85,9 @@ p{
 }
 
 .copy-right {
+  width: 50%;
   color: #EAF6F6;
-  margin-top: 40px;
+  margin: 40px auto auto auto;
   font-size: 0.75rem;
   padding: 20px 0;
 }
@@ -134,7 +135,8 @@ p{
 }
 
 .contact-me {
-  margin: 100px;
+  margin: 100px auto;
+  width: 50%;
 }
 
 .contact-p {
