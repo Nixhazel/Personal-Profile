@@ -146,14 +146,14 @@ p{
 .code-image {
   width: 20%;
   float: left;
-  margin: auto 30px 30px auto;
+  margin: auto 30px 40px auto;
   border-radius: 60px;
 }
 
 .TD-image {
   width: 25%;
   float: right;
-  margin-left: 30px;
+/*   margin-left: 30px; */
   border-radius: 60px;
 }
 
